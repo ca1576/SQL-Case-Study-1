@@ -1,7 +1,8 @@
 # SQL-Case-Study-1
 This repository contains a collection of practical SQL projects designed to demonstrate real-world data querying, transformation, and management skills. It includes use cases for various SQL dialects (MySQL, PostgreSQL, SQL Server, SQLite) and covers tasks such as data analysis, reporting, database design, and optimization.
 
-Problem Statement:
+**Problem Statement:**
+
  You are a database administrator. You want to use the data to answer a few
  questions about your customers, especially about the sales and profit coming
  from different states, money spent in marketing and various other factors such as
